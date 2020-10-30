@@ -1,9 +1,9 @@
 /*
 == Page scroll to id == 
 Version: 1.5.2 
-Plugin URI: http://manos.malihu.gr/page-scroll-to-id/
+Plugin URI: https://manos.malihu.gr/page-scroll-to-id/
 Author: malihu
-Author URI: http://manos.malihu.gr
+Author URI: https://manos.malihu.gr
 License: MIT License (MIT)
 */
 

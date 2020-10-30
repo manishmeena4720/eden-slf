@@ -1,6 +1,6 @@
 /*
  Ninzio Slider 1.0.0
- http://www.ninzio.com
+ https://www.ninzio.com
  Copyright 2014 Ninzio Team
 */
 
