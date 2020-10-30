@@ -488,7 +488,7 @@
 
 /*
  * Polyfill for Internet Explorer
- * See https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent
+ * See http://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent
  */
 ( function () {
 	if ( typeof window.CustomEvent === "function" ) return false;
